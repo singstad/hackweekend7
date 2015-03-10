@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackweekend7.console", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackweekend7.web", "src\hackweekend7.web\hackweekend7.web.csproj", "{52B6F601-7EA6-4246-AC83-3DBB75B97025}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackweekend7.dal", "hackweekend7.dal\hackweekend7.dal.csproj", "{D55DB24B-F34A-40C0-8391-DF94A9959819}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackweekend7.dal", "src\hackweekend7.dal\hackweekend7.dal.csproj", "{D55DB24B-F34A-40C0-8391-DF94A9959819}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
